@@ -1,2 +1,3 @@
 # WE ARE TEAM COSMIC
-go to CosmosTheDEV for more cool repos :D
+<br>
+the best repo is intocosmic - deploy all out projects on csb.app only or they wont work >:\
